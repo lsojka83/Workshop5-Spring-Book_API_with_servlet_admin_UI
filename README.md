@@ -8,3 +8,4 @@ Book REST API with admin UI
 ### - MySQL
 ### - JSTL
 ### - HTML + CSS (Bootstrap)
+### - JS
